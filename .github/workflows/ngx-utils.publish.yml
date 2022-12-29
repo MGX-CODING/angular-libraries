@@ -17,5 +17,5 @@ jobs:
       - uses: JS-DevTools/npm-publish@v1
         with:
           token: ${{ secrets.NPM_TOKEN }}
-          package: projects/ngx-utils/package.json
+          package: dist/ngx-utils/package.json
           access: public
