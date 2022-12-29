@@ -1,6 +1,10 @@
 {
   "name": "@mgxdev/ngx-utils",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MGX-CODING/angular-libraries"
+  },
   "peerDependencies": {
     "@angular/common": "^15.0.0",
     "@angular/core": "^15.0.0",
