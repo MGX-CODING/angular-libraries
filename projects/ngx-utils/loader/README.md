@@ -25,7 +25,7 @@ By default, the loader component is just a simple component that displays `LOADI
 You can either declare a module-wide loader like so
 
 ```typescript
-import { MgxLoaderModule, MGX_LOADER_COMPONENT } from "ngx-utils/loader";
+import { MgxLoaderModule, MGX_LOADER_COMPONENT } from "@mgxdev/ngx-utils/loader";
 
 @NgModule({
   imports: [
